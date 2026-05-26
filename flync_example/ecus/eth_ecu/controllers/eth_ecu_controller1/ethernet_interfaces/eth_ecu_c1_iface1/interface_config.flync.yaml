@@ -110,7 +110,7 @@ compute_nodes:
     - address: 10.0.50.7
       ipv4netmask: 255.255.255.0
 name: eth_ecu_c1_iface1
-mac_address: 00:11:01:01:01:22
+mac_address: 00:11:01:01:01:33
 mii_config:
   type: sgmii
   speed: 1000
